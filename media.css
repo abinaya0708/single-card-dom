@@ -1,0 +1,15 @@
+@media(min-width:320px){
+    .card{
+        width:80%;
+    }
+}
+@media(min-width:760px){
+    .card{
+        width:80%;
+    }
+}
+@media(min-width:960px){
+    .card{
+        width:40%;
+    }
+}
